@@ -1,5 +1,5 @@
-# zs_velocity_dist
-Calculating the zeeman slower velocity distribution using step response of the collimator.
+# helium_source_velocity
+Calculating the source velocity distribution using step response of the collimator.
 
 ## Readings
 * [A high flux, liquid-helium cooled source of metastable rare gas atoms](https://link.springer.com/article/10.1007%2Fs00340-004-1600-9)
