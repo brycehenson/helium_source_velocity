@@ -21,6 +21,6 @@ git submodule update --init --recursive --remote --merge
 
 ## Contributions  
 This project would not have been possible without the many open source tools that it is based on. In no particular order: 
-* ***Luca Martino, David Luengo, and Jesse Read** [Independent Doubly Adaptive Rejection Metropolis Sampling](https://au.mathworks.com/matlabcentral/fileexchange/54122-independent-doubly-adaptive-rejection-metropolis-sampling)
+* ***Luca Martino, David Luengo, and Jesse Read*** [Independent Doubly Adaptive Rejection Metropolis Sampling](https://au.mathworks.com/matlabcentral/fileexchange/54122-independent-doubly-adaptive-rejection-metropolis-sampling)
 
 
