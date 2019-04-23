@@ -16,8 +16,7 @@ git submodule update --init --recursive --remote --merge
 * [impulse response](https://lpsa.swarthmore.edu/Transient/TransInputs/TransImpulseTime.html)
 * [impulse response Q](https://dsp.stackexchange.com/questions/536/what-is-meant-by-a-systems-impulse-response-and-frequency-response)
 * [Preliminary Study of Gas Cluster Ion Beam Source](https://www.researchgate.net/publication/267834734_Preliminary_Study_of_Gas_Cluster_Ion_Beam_Source)
- 
-
+* [transforming density functions](https://www.cl.cam.ac.uk/teaching/2003/Probability/prob11.pdf)
 
 
 ## Contributions  
