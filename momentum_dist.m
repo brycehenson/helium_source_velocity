@@ -111,3 +111,5 @@ ylabel('density (arb. units)')
 
 % if we can get the delay distribution then we can analyticaly integerate it and fit it to the measured step response
 
+
+% I dont think that is is that helpfull but [A calculation of the time-of-flight distribution of trapped atoms](https://aapt.scitation.org/doi/10.1119/1.1424266)

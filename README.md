@@ -7,6 +7,7 @@ Calculating the zeeman slower velocity distribution using step response of the c
 * [A calculation of the time-of-flight distribution of trapped atoms](https://aapt.scitation.org/doi/10.1119/1.1424266)
 * [impulse response](https://lpsa.swarthmore.edu/Transient/TransInputs/TransImpulseTime.html)
 * [impulse response Q](https://dsp.stackexchange.com/questions/536/what-is-meant-by-a-systems-impulse-response-and-frequency-response)
+* [Preliminary Study of Gas Cluster Ion Beam Source](https://www.researchgate.net/publication/267834734_Preliminary_Study_of_Gas_Cluster_Ion_Beam_Source)
  
 
 
