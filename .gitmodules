@@ -1,3 +1,6 @@
 [submodule "lib/core_BEC_analysis"]
 	path = lib/core_BEC_analysis
 	url = https://github.com/brycehenson/Core_BEC_Analysis.git
+[submodule "bin/mlab"]
+	path = bin/mlab
+	url = https://github.com/sstobbe/mlab.git

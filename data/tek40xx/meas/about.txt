@@ -1,0 +1,6 @@
+normal run but modified to hold normal trap for 28339ms at 3.4v (~14.7285A)
+
+
+no evidence of thermal transients
+
+current noise seems to be approx 200ua which as a fractional stability is 1.4e-5 in a 5hz bandwidth
