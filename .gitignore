@@ -4,3 +4,5 @@
 *.db
 # Data files
 *.mat
+*.finished
+nogit
